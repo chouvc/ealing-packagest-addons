@@ -2,7 +2,6 @@
     "name": "chouvc/ealing-packagest-addons",
     "description": "addons package for ealing",
     "type": "library",
-    "version": "1.0.2",
     "require": {
         "php": ">=5.4.0",
         "topthink/think-helper": ">=1.0.4",
